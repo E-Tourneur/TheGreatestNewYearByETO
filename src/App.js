@@ -12,7 +12,7 @@ function App() {
           </div> 
         </div>
       </header>
-      <div>
+      <div className="body">
         Site in development.
       </div>
     </div>
